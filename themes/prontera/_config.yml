@@ -3,8 +3,8 @@ favicon: /favicon.ico
 
 # Nav Menus
 menu:
-    Index: /
-    Archives: /archives
+    首页: /
+    归档: /archives
 
 # Nav Shortcut Icons
 nav_icons:
@@ -19,8 +19,8 @@ friend_links:
 
 # About
 about_info:
-    name: "AngryPowman"
-    bio: "十年饮冰·难凉热血"
+    name: "FightFrog"
+    bio: "a fight frog"
     avatar: "/images/avatar.png"
 
 # Comment
